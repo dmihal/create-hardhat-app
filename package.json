@@ -1,0 +1,11 @@
+{
+  "name": "create-hardhat-app",
+  "version": "0.0.1",
+  "license": "MIT",
+  "bin": {
+    "create-hardhat-app": "hardhat"
+  },
+  "dependencies": {
+    "hardhat": "^2.0.6"
+  }
+}
