@@ -6,6 +6,6 @@
     "create-hardhat-app": "./index.js"
   },
   "dependencies": {
-    "hardhat": "^2.0.6"
+    "hardhat": "^2.6.8"
   }
 }
